@@ -1,0 +1,9 @@
+CONSTRUCTOR:-
+    A constructor in Java is a special method that is used to initialize objects.
+    The constructor is called when an object of a class is created.
+    Constructors can also take parameters, which is used to initialize attributes.
+    
+    Constructors can be divided into 3 types:
+         1. No-Arg Constructor.
+         2. Parameterized Constructor.
+         3. Default Constructor.
