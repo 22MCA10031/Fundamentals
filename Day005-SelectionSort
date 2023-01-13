@@ -1,0 +1,16 @@
+We can create a java program to sort array elements using selection sort.
+In selection sort algorithm, we search for the lowest element and arrange it to the proper location. We swap the current element with the next lowest number.
+
+The selection sort algorithm works in a very simple way. It maintains two subarray for the given array.
+
+The subarray is already sorted.
+And the second subarray is unsorted.
+With every iteration of selection sort, an element is picked from the unsorted subarray and moved to the sorted subarray.
+
+Time Complexity
+Best: O(n^2)
+Average: O(n^2)
+Worst: O(n^2)
+
+Space Complexity
+O(1)
