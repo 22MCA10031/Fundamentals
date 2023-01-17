@@ -1,0 +1,15 @@
+Grid Computing can be defined as a network of computers working together to perform a task that would rather be difficult for a single machine. 
+All machines on that network work under the same protocol to act as a virtual supercomputer. 
+The task that they work on may include analyzing huge datasets or simulating situations that require high computing power. 
+Computers on the network contribute resources like processing power and storage capacity to the network.
+
+Advantages of Grid Computing: 
+1. It is not centralized, as there are no servers required, except the control node which is just used for controlling and not for processing.
+2. Multiple heterogeneous machines i.e. machines with different Operating Systems can use a single grid computing network.
+3. Tasks can be performed parallelly across various physical locations and the users don’t have to pay for them (with money).
+
+Disadvantages of Grid Computing:
+1. The software of the grid is still in the involution stage.
+2. A super fast interconnect between computer resources is the need of hour.
+3. Licensing across many servers may make it prohibitive for some applications.
+4. Many groups are reluctant with sharing resources .
