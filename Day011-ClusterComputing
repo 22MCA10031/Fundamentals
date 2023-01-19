@@ -1,0 +1,11 @@
+Cluster computing is a collection of tightly or loosely connected computers that work together so that they act as a single entity. 
+The connected computers execute operations all together thus creating the idea of a single system. 
+The clusters are generally connected through fast local area networks (LANs)
+
+1. Cluster computing gives a relatively inexpensive, unconventional to the large server or mainframe computer solutions.
+2. It resolves the demand for content criticality and process services in a faster way.
+3. Many organizations and IT companies are implementing cluster computing to augment their scalability, availability, processing speed and resource management at economic 
+   prices.
+4. It ensures that computational power is always available.
+5. It provides a single general strategy for the implementation and application of parallel high-performance systems independent of certain hardware vendors and their 
+   product decisions.
