@@ -1,0 +1,11 @@
+A client and server networking model is a model in which computers such as servers provide the network services to the other computers such as clients to perform a user based tasks.
+This model is known as client-server networking model.
+
+An application program is known as a client program, running on the local machine that requests for a service from an application program known as a server program, 
+running on the remote machine.
+
+A client program runs only when it requests for a service from the server while the server program runs all time as it does not know when its service is required.
+
+A server provides a service for many clients not just for a single client. Therefore, we can say that client-server follows the many-to-one relationship.
+
+Many clients can use the service of one server.
