@@ -1,0 +1,13 @@
+Soft computing is an approach where we compute solutions to the existing complex problems, where output results are imprecise or fuzzy in nature, one of the most 
+important features of soft computing is it should be adaptive so that any change in environment does not affect the present process. 
+The following are the characteristics of soft computing.
+
+It does not require any mathematical modeling for solving any given problem
+It gives different solutions when we solve a problem of one input from time to time
+Uses some biologically inspired methodologies such as genetics, evolution, particles swarming, the human nervous system, etc.
+Adaptive in nature.
+
+There are three types of soft computing techniques which include the following:
+1. Artificial Neural Network
+2. Fuzzy Logic
+3. Genetic algorithm
