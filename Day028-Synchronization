@@ -1,0 +1,13 @@
+Synchronization in Java is the capability to control the access of multiple threads to any shared resource.
+
+Java Synchronization is better option where we want to allow only one thread to access the shared resource.
+
+Why use Synchronization?
+The synchronization is mainly used to
+To prevent thread interference.
+To prevent consistency problem.
+
+Types of Synchronization
+There are two types of synchronization
+1. Process Synchronization
+2. Thread Synchronization
