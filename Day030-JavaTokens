@@ -1,0 +1,12 @@
+In Java, the program contains classes and methods. 
+Further, the methods contain the expressions and statements required to perform a specific operation. 
+These statements and expressions are made up of tokens. In other words, we can say that the expression and statement is a set of tokens. 
+The tokens are the small building blocks of a Java program that are meaningful to the Java compiler. 
+Further, these two components contain variables, constants, and operators
+
+The Java compiler breaks the line of code into text (words) is called Java tokens. 
+These are the smallest element of the Java program. 
+The Java compiler identified these words as tokens. 
+These tokens are separated by the delimiters. 
+It is useful for compilers to detect errors. 
+Remember that the delimiters are not part of the Java tokens.
