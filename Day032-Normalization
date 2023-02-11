@@ -1,0 +1,13 @@
+Database normalization is a technique for creating database tables with suitable columns and keys by decomposing a large table into smaller logical units. 
+The process also considers the demands of the environment in which the database resides.
+
+Normalization is an iterative process. Commonly, normalizing a database occurs through a series of tests.
+Each subsequent step decomposes tables into more manageable information, making the overall database logical and easier to work with.
+
+Normalization helps a database designer optimally distribute attributes into tables. The technique eliminates the following:
+
+Attributes with multiple values.
+Doubled or repeated attributes.
+Non-descriptive attributes.
+Attributes with redundant information.
+Attributes created from other features.
