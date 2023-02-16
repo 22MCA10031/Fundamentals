@@ -1,0 +1,9 @@
+An applet is a program written in the Java programming language that can be included in an HTML page, much in the same way an image is included in a page.
+When you use a Java technology-enabled browser to view a page that contains an applet, the applet's code is transferred to your system and executed by the browser's Java
+Virtual Machine (JVM).
+
+JDK Demo Applets
+Every version of the Java Software Development Kit (aka JDK) includes a set of demo Applets which includes source code.
+
+1. Java Software Development Kit
+2. JDK Demo Applets
