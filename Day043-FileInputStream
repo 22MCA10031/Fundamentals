@@ -1,0 +1,10 @@
+FileInputStream class is useful to read data from a file in the form of sequence of bytes. FileInputStream is meant for reading streams of raw bytes such as image data. 
+For reading streams of characters, consider using FileReader.
+
+Constructors of FileInputStream Class :
+
+1. FileInputStream(File file): Creates an input file stream to read from the specified File object. 
+
+2. FileInputStream(FileDescriptor fdobj) :Creates an input file stream to read from the specified file descriptor. 
+
+3. FileInputStream(String name): Creates an input file stream to read from a file with the specified name. 
