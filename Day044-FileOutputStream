@@ -1,0 +1,9 @@
+FileOutputStream is an outputstream for writing data/streams of raw bytes to file or storing data to file.
+FileOutputStream is a subclass of OutputStream. To write primitive values into a file, we use FileOutputStream class. 
+For writing byte-oriented and character-oriented data, we can use FileOutputStream but for writing character-oriented data, FileWriter is more preferred.
+
+When we run the java program, the data is stored in the RAM. Now, suppose the variable data stored in RAM, we want to access that data and bring it to a file in our hard
+disk. So, we will create an object of OutputStream in the RAM and that will point to a file referencing to hard disk.
+
+Now, the data from the variable data file in the RAM will go to the referencing file (object of Output Stream) and from there will be transferred/stored in the file of 
+the hard disk.
